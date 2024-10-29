@@ -1,6 +1,6 @@
-# API REST com NodeJs e MongoDB + ReactJs e TypeScript
+# API REST com NodeJS e MongoDB + ReactJS e TypeScript
 
-# Backend - (NodeJS) + MongoDB
+# Backend - (NodeJs) + MongoDB
 
 * Criação API REST com fastify
 * Comunicação com banco de dados
@@ -8,7 +8,7 @@
 * Lista todos clientes cadastrados
 * Deleta um cliente com base em um id
 
-# Frontend - React JS + TypeScript
+# Frontend - React Js + TypeScript
 
 * Consome a API REST
 * Lista todos os clientes cadastrados
