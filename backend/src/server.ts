@@ -1,0 +1,1 @@
+// Inicia o backend configurações iniciais, chamada dos middleware 
